@@ -235,7 +235,7 @@
             Controls.Add(dataGridViewStudents);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Лабораторная работа №8 - CRUD";
+            Text = "Лабораторная работа №8 - CRUDDDD";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridViewStudents).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericAge).EndInit();
